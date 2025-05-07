@@ -11,4 +11,4 @@ La tercera raiz no se pudo encontrar por el metodo de biseccion ya que ambas las
 
 ![Animación del método de secante](/TALLER_02/graficas_secante/secante_animacion.gif)
 
-![Animación del segundo ejercicio](/TALLER_02/newton_animacion.gif)
+![Animación del segundo ejercicio](/TALLER_02newton_animacion.gif)
