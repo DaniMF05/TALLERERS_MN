@@ -15,6 +15,7 @@ La tercera raiz no se pudo encontrar por el metodo de biseccion ya que ambas las
 ![Animación del segundo ejercicio](/TALLER_02newton_animacion.gif)
 
 ### Ejercicio 03
+
 Se hizo el calculo por metodo de biseccion
 
 El valor xT encontrado es: 34.02196693
